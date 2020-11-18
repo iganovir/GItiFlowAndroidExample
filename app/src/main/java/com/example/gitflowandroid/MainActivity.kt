@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 //        ini dari branch feature
+
+//        ini dari branch feature layout wowwww
     }
 }
