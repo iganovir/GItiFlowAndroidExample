@@ -10,6 +10,13 @@ class MainActivity : AppCompatActivity() {
 
 //        ini dari git master
 
+//        ini dari branch feature myFeature versi 2 ya
+
+//        ini dari branch feature coba lagiya
+
+//        ini dari branch feature cobaya
+
+//        wahh ada bug nih kita selesaikan di branch release ya
 //        wahh ada error guys ini kita dari branch hotfix
     }
 }
