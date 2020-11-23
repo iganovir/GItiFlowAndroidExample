@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
 //        ini dari branch feature
 
 //        ini dari branch feature layout wowwww
+
+//        ini dari branch feature myFeature versi 2 ya
     }
 }
