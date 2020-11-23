@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
 //        ini dari branch feature coba lagiya
 
 //        ini dari branch feature cobaya
+
+//        wahh ada bug nih kita selesaikan di branch release ya
     }
 }
