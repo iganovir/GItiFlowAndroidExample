@@ -18,5 +18,9 @@ class MainActivity : AppCompatActivity() {
 
 //        wahh ada bug nih kita selesaikan di branch release ya
 //        wahh ada error guys ini kita dari branch hotfix
+
+
+//        sekarang kita coba stash ya
+//        ini di branch master ya
     }
 }
