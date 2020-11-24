@@ -22,5 +22,7 @@ class MainActivity : AppCompatActivity() {
 
 //        sekarang kita coba stash ya
 //        ini di branch master ya
+
+//        ini coba commit di buat test di rebase ya
     }
 }
