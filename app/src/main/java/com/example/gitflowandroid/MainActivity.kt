@@ -27,5 +27,7 @@ class MainActivity : AppCompatActivity() {
 
 //        ini commit bbuat di cherry pick 1
 //        ini commit bbuat di cherry pick 2
+
+//        travis test
     }
 }
