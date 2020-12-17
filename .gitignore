@@ -14,4 +14,5 @@
 .cxx
 local.properties
 
-.MD
+# ignoring read me
+README.MD
